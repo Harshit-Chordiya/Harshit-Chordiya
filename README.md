@@ -1,17 +1,10 @@
-<h2 align="left">Hi 👋! My name is Harshit Chordiya and I'm a Full Stack Web Developer, from IIIT Lucknow</h2>
+# 💫 About Me:
+<img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" />
+- 🔭 A passionate Learner and Tech Enthusiast from India. I am currently pursuing my B.Tech in Computer Science from IIIT Lucknow.<br>
+- 💬 Ask me about <strong>frontend and backend development</strong><br>
+- 📫 How to reach me <strong>harshitchordiya03@gmail.com</strong><br>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Chordiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-Chordiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG91anZxbzF2aDBxOHEwdGo0NmF6YjRwOWpvZ2thaDhueXl4em84YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif"  />
-
-###
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -77,26 +70,29 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
 </div>
 
-###
 
+## 🌐 Socials:
 <div align="left">
-  <a href="harshitchordiya03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/harshit-chordiya-b5b786259/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Chordiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-Chordiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br clear="both">
 
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Harshit-Chordiya/Harshit-Chordiya/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Harshit-Chordiya/Harshit-Chordiya/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Harshit-Chordiya/Harshit-Chordiya/output/snake.svg" />
 </picture>
+</div>
 
-###
+
